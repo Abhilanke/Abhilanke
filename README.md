@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abhilanke.github.io/resumeportfolio/](https://abhilanke.github.io/resumeportfolio/)
 
-- 💬 Ask me about **java,html,css,javascript**
+- 💬 Ask me about **Java,html,css,javascript**
 
 - 📫 How to reach me **lankeabhishek@gmail.com**
 
